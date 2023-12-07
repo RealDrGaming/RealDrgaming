@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realdrgaming&label=Profile%20views&color=0e75b6&style=flat" alt="realdrgaming" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realdrgaming" alt="realdrgaming" /></a> </p>
-
 - 🔭 I’m currently working on **my SoftUni education**
 
 - 🌱 I’m currently learning **C#, .NET, Entity Framework Core and many others...**
