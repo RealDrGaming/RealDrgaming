@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dankoneshev@gmail.com**
 
-- ⚡ Fun fact **I am a certified MENSA member. I have more IQ that 99% of the world's population.**
+- ⚡ Fun fact **I am a certified MENSA member. I was in the top 1 percentile in the year i help my MENSA membership IQ test.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
