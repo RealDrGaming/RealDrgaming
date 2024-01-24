@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **C#, .NET, Entity Framework Core, ASP.NET CORE and many others...**
 
-- 📝 I regularly write articles on [https://github.com/RealDrGaming](https://github.com/RealDrGaming)
+- 📫 How to reach me: **dankoneshev@gmail.com**
 
-- 📫 How to reach me **dankoneshev@gmail.com**
-
-- ⚡ Fun fact **I am a certified MENSA member. I have more IQ that 99% of the world's population.**
+- ⚡ Fun fact **I am a certified MENSA member, being top 1% of the population**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
