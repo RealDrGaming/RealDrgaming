@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my SoftUni education**
 
-- 🌱 I’m currently learning **C#, .NET, Entity Framework Core and many others...**
+- 🌱 I’m currently learning **C#, .NET, Entity Framework Core, ASP.NET CORE and many others...**
 
 - 📝 I regularly write articles on [https://github.com/RealDrGaming](https://github.com/RealDrGaming)
 
