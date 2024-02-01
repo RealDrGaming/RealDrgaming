@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yordan Neshev</h1>
 <h3 align="center">A passionate C# developer from Bulgaria</h3>
 
-<a href="http://tonedeaftest.com/"><img src="https://s3.amazonaws.com/TDT_v1/not_tone_deaf_320.jpg" alt="I am not tone deaf!"></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realdrgaming&label=Profile%20views&color=0e75b6&style=flat" alt="realdrgaming" /> </p>
 
 - 🔭 I’m currently working on **my SoftUni education**
